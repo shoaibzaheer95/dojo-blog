@@ -28,6 +28,21 @@ nav.navbar a:hover{
   align-items: center;
   padding: 20px;
 }
-.home{
-
+.home {
+  width: 100%;
+}
+.preview-blog {
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+}
+.preview-blog h2{
+  padding:10px 0;
+}
+.preview-blog:hover{
+  box-shadow: 0 0 10px #eee;
+}
+.author{
+  color: #f1356d;
+  padding:10px 0;
 }
