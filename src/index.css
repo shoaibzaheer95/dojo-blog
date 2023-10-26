@@ -36,13 +36,33 @@ nav.navbar a:hover{
   border-bottom: 1px solid #eee;
   width: 100%;
 }
-.preview-blog h2{
-  padding:10px 0;
+.blog-list h2 {
+  padding: 20px;
+  color: #f1356d;
+}
+
+.preview-blog {
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+}
+.preview-blog {
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+  width: 100%;
+}
+.preview-blog h3 {
+  color: #666872;
+  font-size: 25px;
+}
+.preview-blog p{
+  font-size: 14px;
+  color: #666872;
 }
 .preview-blog:hover{
   box-shadow: 0 0 10px #eee;
 }
-.author{
+p.author{
   color: #f1356d;
   padding:10px 0;
 }

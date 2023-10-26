@@ -1,0 +1,23 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Introduction to JavaScript",
+            "body": "JavaScript is a versatile programming language used for web development.",
+            "author": "John Doe"
+        },
+        {
+            "id": 2,
+            "title": "Working with Arrays",
+            "body": "Arrays are fundamental data structures in JavaScript.",
+            "author": "Jane Smith"
+        },
+        {
+            "id": 3,
+            "title": "Responsive Web Pages",
+            "body": "Learn how to create responsive web pages with HTML, CSS, and JavaScript.",
+            "author": "Chris Wilson"
+        }
+]
+
+}
