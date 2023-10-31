@@ -66,3 +66,9 @@ p.author{
   color: #f1356d;
   padding:10px 0;
 }
+.loader{
+  height: 80vh;
+  width: 100%;
+  padding: 40% 0;
+  text-align: center;
+}
